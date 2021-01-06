@@ -1,2 +1,2 @@
-# Portifolio
-O portifolio de trabalho coordenador técnico pedagógico Isael Lustosa
+# Portfolio
+O portfolio de trabalho coordenador técnico pedagógico Isael Lustosa
